@@ -1,1 +1,10 @@
-41
+:root {
+    --cor--de--fundo: #00aeff;
+}
+
+body{
+    background-color: var(--cor--de--fundo);
+}
+h1{
+    background-color: aquamarine;
+}
