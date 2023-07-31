@@ -42,12 +42,16 @@
  }
    
    .lista-menu__titulo {
-     color: var(--preto)
+      color: var(--preto);
+      font-weight: 700;
    }
    .lista-menu__link {
       background:linear-gradient(97.54deg, #1e8ce0 35.49%, #326589 165.37);
       -webkit-background-clip: text;
       -webkit-text-fill-color: blue;
       background-clip: text;
-
    }
+    .container__botao {
+        display: none; 
+    }
+
